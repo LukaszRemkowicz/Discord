@@ -25,7 +25,7 @@ DAYLY_CITIES = []
 WRONG_VALUE = [] <br>
 ANSWER_DICT = {}
 
-6) Add coutries, where you want to search weater to be sure, user will not use strange words. Used in UM.
+6) Add coutries, where you want to search weather to be sure, user will not use strange words. Used in UM.
 
 COUNTRIES_FOR_SEARCH = []
 
