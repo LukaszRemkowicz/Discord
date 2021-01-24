@@ -79,22 +79,3 @@ UM_CROP_PARAM = (0, 0, 820, 660)
 
 COORDS_CACHE = dict()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
